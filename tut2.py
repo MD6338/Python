@@ -28,6 +28,10 @@ print(b)
 print(c)
 print(c)
 
+# Taking Input From User
+print("Enter two numbers :")
+num1,num2 = int(input()), int(input())
+
 # Variable Name Rules -
 """
 - A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume). Rules for Python variables:
