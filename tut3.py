@@ -1,0 +1,18 @@
+myStr = "I am Chinmay Kulthe"
+print(len(myStr))
+print(myStr[5])
+print(myStr[5:8])
+print(myStr[5:])
+print(myStr[:5])
+print(myStr[0:5:2])
+print(myStr[::-1])
+
+print(myStr.isalnum())
+print(myStr.isalpha())
+print(myStr.endswith("the"))
+print(myStr.count("a"))
+print(myStr.find("Chinmay"))
+print(myStr.capitalize())
+print(myStr.upper())
+print(myStr.lower())
+print(myStr.replace("Kulthe","Kulthae"))
