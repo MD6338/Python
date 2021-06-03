@@ -31,6 +31,7 @@ print(c)
 # Taking Input From User
 print("Enter two numbers :")
 num1,num2 = int(input()), int(input())
+print(num1 + num2)
 
 # Variable Name Rules -
 """
