@@ -3,6 +3,7 @@ d = {"Chinmay":"8th sep", "Rohit":"3rd nov", "Samartha":"5th july", "Aseem":{"B"
 print(d)
 # print(d["Samartha"])
 d["Dakshes"] = "17th"
+print(d["Dakshes"])
 del d["Dakshes"]
 print(d)
 print(d["Aseem"]["B"])
